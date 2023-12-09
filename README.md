@@ -1,4 +1,4 @@
-## :chart_with_upwards_trend: Current Stats
+## :chart_with_upwards_trend: Current stats
 
 <br />
 
@@ -6,8 +6,8 @@
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Emam-Bokhari&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=00aeff&sideLabels=03aef2&currStreakNum=2dde98&ring=00aeff&currStreakLabel=2dde98&sideNums=00a1d6" />
 </p>
 
-## :mailbox: Reach me out
+## :mailbox: Get in touch with me
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
+[<p align="center"><img height="50" width="50" src="https://raw.githubusercontent.com/Emam-Bokhari/Emam-Bokhari/8c9d690d62b71b768518d956a5c6d7a48e839ac7/assets/social_icons/linkedin.svg">](https://www.linkedin.com/in/moshfiqur-rahman-a302b32a3/)&nbsp;&nbsp;&nbsp;[<img width="50"  height="50" src="https://raw.githubusercontent.com/Emam-Bokhari/Emam-Bokhari/8c9d690d62b71b768518d956a5c6d7a48e839ac7/assets/social_icons/facebook.svg">](https://www.facebook.com/emambokhari99)&nbsp;&nbsp;&nbsp;[<img width="50" height="50" src="https://raw.githubusercontent.com/Emam-Bokhari/Emam-Bokhari/8c9d690d62b71b768518d956a5c6d7a48e839ac7/assets/social_icons/twitter.svg"> </p>](#)
