@@ -1,3 +1,5 @@
+  <img style="width: 100%;"  src="https://raw.githubusercontent.com/Emam-Bokhari/Emam-Bokhari/d86f1ab4744dca41455a4237ff9d553f2cc5d10d/assets/social_icons/banner.svg" />
+
 ## :eyes: Current overview
 
 <br />
@@ -8,7 +10,7 @@ Hello and welcome to my GitHub profile !
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=440&lines=Front-End+Web+Developer;MERN+Stack+Developer;Consistantly+Picking-Up+New+Skills">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=440&lines=Frontend+Web-Developer;MERN+Stack+Developer;Consistantly+Picking-Up+New+Skills">
 </p>
 
 <div>
@@ -37,7 +39,7 @@ Let's connect and discuss how my skills can contribute to your projects or team.
 [<p align="center"><img height="50" width="50" src="https://raw.githubusercontent.com/Emam-Bokhari/Emam-Bokhari/8c9d690d62b71b768518d956a5c6d7a48e839ac7/assets/social_icons/twitter.svg">](#)&nbsp;&nbsp;&nbsp;[<img width="50"  height="50" src="https://raw.githubusercontent.com/Emam-Bokhari/Emam-Bokhari/8c9d690d62b71b768518d956a5c6d7a48e839ac7/assets/social_icons/linkedin.svg">](https://www.linkedin.com/in/moshfiqur-rahman-a302b32a3/)&nbsp;&nbsp;&nbsp;[<img width="50" height="50" src="https://raw.githubusercontent.com/Emam-Bokhari/Emam-Bokhari/8c9d690d62b71b768518d956a5c6d7a48e839ac7/assets/social_icons/facebook.svg"> </p>](https://www.facebook.com/emambokhari99)
 
 
-<br/>
+
 
 ## :chart_with_upwards_trend: Current stats
 
@@ -47,7 +49,7 @@ Let's connect and discuss how my skills can contribute to your projects or team.
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Emam-Bokhari&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=00aeff&sideLabels=03aef2&currStreakNum=2dde98&ring=00aeff&currStreakLabel=2dde98&sideNums=00a1d6" />
 </p>
 
-<br/>
+
 
 ## :computer: The technologies I am aware of
 
@@ -60,6 +62,6 @@ Let's connect and discuss how my skills can contribute to your projects or team.
   </a>
 </p>
 
-<br/>
+
 
 
