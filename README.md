@@ -12,6 +12,17 @@
 
 [<p align="center"><img height="50" width="50" src="https://raw.githubusercontent.com/Emam-Bokhari/Emam-Bokhari/8c9d690d62b71b768518d956a5c6d7a48e839ac7/assets/social_icons/twitter.svg">](#)&nbsp;&nbsp;&nbsp;[<img width="50"  height="50" src="https://raw.githubusercontent.com/Emam-Bokhari/Emam-Bokhari/8c9d690d62b71b768518d956a5c6d7a48e839ac7/assets/social_icons/linkedin.svg">](https://www.linkedin.com/in/moshfiqur-rahman-a302b32a3/)&nbsp;&nbsp;&nbsp;[<img width="50" height="50" src="https://raw.githubusercontent.com/Emam-Bokhari/Emam-Bokhari/8c9d690d62b71b768518d956a5c6d7a48e839ac7/assets/social_icons/facebook.svg"> </p>](https://www.facebook.com/emambokhari99)
 
+<br />
 
+## :computer: The technologies I am aware of
+
+<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img  src="https://skillicons.dev/icons?i=js,react,tailwindcss,express,mongodb,html,css" />
+    <br/>
+    <img  src="https://skillicons.dev/icons?i=git,github,vscode" />
+  </a>
+</p>
 
 
