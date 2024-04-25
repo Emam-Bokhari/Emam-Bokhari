@@ -56,9 +56,9 @@ Let's connect and discuss how my skills can contribute to your projects or team.
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img  src="https://skillicons.dev/icons?i=js,react,nextjs,redux,materialui,tailwindcss,bootstrap,express,mongodb" />
+    <img  src="https://skillicons.dev/icons?i=js,react,tailwindcss,html,css" />
     <br/>
-    <img  src="https://skillicons.dev/icons?i=html,css,git,github,vscode" />
+    <img  src="https://skillicons.dev/icons?i=git,github,vscode" />
   </a>
 </p>
 
