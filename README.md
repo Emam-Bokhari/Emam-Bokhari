@@ -32,11 +32,6 @@ Let's connect and discuss how my skills can contribute to your projects or team.
 
 <br/>
 
-## :GitRoll
-<a href="https://gitroll.io/profile/uUIcUdIrb6yRcFNz9DbGl4eJLx5v1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uUIcUdIrb6yRcFNz9DbGl4eJLx5v1" alt="GitRoll Profile Badge"/></a>
-
-<br/>
-
 ## :mailbox: Get in touch with me
 
 <br />
