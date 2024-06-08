@@ -32,7 +32,7 @@ Let's connect and discuss how my skills can contribute to your projects or team.
 
 <br/>
 
-## :hourglass_flowing_sand: July-2023 to Oct-2024 My Goal
+## :hourglass_flowing_sand: July-2023 to Dec-2024 My Goal
 
 <br/>
 
