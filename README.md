@@ -32,6 +32,50 @@ Let's connect and discuss how my skills can contribute to your projects or team.
 
 <br/>
 
+## :hourglass_flowing_sand: July-2023 to Oct-2024 My Goal
+
+<br/>
+
+<div
+  
+  <ul>
+    
+    <li>
+      Js
+    </li>
+    
+    <li>
+      ReactJs
+    </li>
+    
+    <li>
+      NextJs
+    </li>
+    
+    <li>
+      MUI
+    </li>
+
+    <li>
+    Shadcn/ui
+    </li>
+    
+    <li>
+      Tailwind CSS
+    </li>
+    
+    <li>
+      Bootstrap
+    </li>
+    
+    <li>
+      Hospital Management System - Portfolio Project
+    </li>
+    
+  </ul>
+  
+</div>
+
 ## :mailbox: Get in touch with me
 
 <br />
