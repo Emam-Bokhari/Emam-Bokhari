@@ -48,7 +48,6 @@ Let's connect and discuss how my skills can contribute to your projects or team.
 <p>8.Hospital Management System - Portfolio Project</p>
 
 </div>
-<br/>
 
 ## :mailbox: Get in touch with me
 
