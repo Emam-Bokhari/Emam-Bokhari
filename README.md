@@ -38,41 +38,41 @@ Let's connect and discuss how my skills can contribute to your projects or team.
 
 <div>
   
-  <ul>
-    
-    <li>
-      Js
-    </li>
-    
-    <li>
-      ReactJs
-    </li>
-    
-    <li>
-      NextJs
-    </li>
-    
-    <li>
-      MUI
-    </li>
 
-    <li>
+    
+    <p>
+      Js
+    </p>
+    
+    <p>
+      ReactJs
+    </p>
+    
+    <p>
+      NextJs
+    </p>
+    
+    <p>
+      MUI
+    </p>
+
+    <p>
     Shadcn/ui
-    </li>
+    </p>
     
-    <li>
+    <p>
       Tailwind CSS
-    </li>
+    </p>
     
-    <li>
+    <p>
       Bootstrap
-    </li>
+    </p>
     
-    <li>
+    <p>
       Hospital Management System - Portfolio Project
-    </li>
+    </p>
     
-  </ul>
+  
   
 </div>
 
