@@ -42,7 +42,7 @@ Let's connect and discuss how my skills can contribute to your projects or team.
 <p>2.ReactJs</p>
 <p>3.Next Js</p>
 <p>4.MUI</p>
-<p>5.Shadcs/UI</p>
+<p>5.Shadcn/UI</p>
 <p>6.Tailwind CSS</p>
 <p>7.Bootstrap</p>
 <p>8.Hospital Management System - Portfolio Project</p>
