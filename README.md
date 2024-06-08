@@ -38,16 +38,17 @@ Let's connect and discuss how my skills can contribute to your projects or team.
 
 <div>
 
-<p>Javascript</p>
-<p>ReactJs</p>
-<p>Next Js</p>
-<p>MUI</p>
-<p>Shadcs/UI</p>
-<p>Tailwind CSS</p>
-<p>Bootstrap</p>
-<p>Hospital Management System - Portfolio Project</p>
+<p>1.Javascript</p>
+<p>2.ReactJs</p>
+<p>3.Next Js</p>
+<p>4.MUI</p>
+<p>5.Shadcs/UI</p>
+<p>6.Tailwind CSS</p>
+<p>7.Bootstrap</p>
+<p>8.Hospital Management System - Portfolio Project</p>
 
 </div>
+<br/>
 
 ## :mailbox: Get in touch with me
 
