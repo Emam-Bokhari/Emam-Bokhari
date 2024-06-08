@@ -36,7 +36,7 @@ Let's connect and discuss how my skills can contribute to your projects or team.
 
 <br/>
 
-<div
+<div>
   
   <ul>
     
