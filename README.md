@@ -1,6 +1,6 @@
-  <img style="width: 100%;"  src="https://raw.githubusercontent.com/Emam-Bokhari/Emam-Bokhari/d86f1ab4744dca41455a4237ff9d553f2cc5d10d/assets/social_icons/banner.svg" />
+  <img style="width: 100%;"  src="https://i.ibb.co.com/MBySz0L/frontend-developer-banner.png" />
 
-## :eyes: Current overview
+## :eyes: Overview
 
 <br />
 
@@ -33,7 +33,7 @@ Let's connect and discuss how my skills can contribute to your projects or team.
 <br/>
 
 
-## :mailbox: Get in touch with me
+## :mailbox: Contact Us
 
 <br />
 
@@ -42,7 +42,7 @@ Let's connect and discuss how my skills can contribute to your projects or team.
 
 
 
-## :chart_with_upwards_trend: Current stats
+## :chart_with_upwards_trend: Github Status
 
 <br />
 
@@ -52,7 +52,7 @@ Let's connect and discuss how my skills can contribute to your projects or team.
 
 
 
-## :computer: The technologies I am aware of
+## :computer: Technologies
 
 <br />
 <p align="center">
