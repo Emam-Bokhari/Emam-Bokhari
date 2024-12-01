@@ -15,7 +15,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=440&lines=FullStack Developer;Frontend Developer;Backend Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=440&lines=FullStack+Developer;Frontend+Developer;Backend+Developer" alt="Typing SVG">
 </p>
 
 #### Moshfiqur Rahman
