@@ -25,8 +25,6 @@
 <p>
 I am a full stack web developer with a solid foundation in both frontend and backend technologies.
 
-Although I can do both frontend and backend, but I find more interest in backend technologies. I want to build my career on the backend technologies.
-
 I can develop frontend with React and NextJs. And I can do backend development with Express.Js, and MongDB.
 
 The future I want to learn about Storybook, Jest, Unit Testing, and Component Architecture. In the backend technology database design, normalization,sharding,partitioning, replication. And I want to know and learn deeply devops, microservice architecture, api design, and system design. الحمد لله I can adopt any technology very quickly.
