@@ -12,12 +12,6 @@
 
 ## 👀 Overview
 
-<br/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=440&lines=FullStack Developer;Frontend Developer;Backend Developer">
-</p>
-
 #### Moshfiqur Rahman
 
 <p>FullStack Developer</p>
@@ -32,8 +26,6 @@ I can develop frontend with React and NextJs. And I can do backend development w
 The future I want to learn about Storybook, Jest, Unit Testing, and Component Architecture. In the backend technology database design, normalization,sharding,partitioning, replication. And I want to know and learn deeply devops, microservice architecture, api design, and system design. الحمد لله I can adopt any technology very quickly.
 
 </p>
-
-<br/>
 
 ## 🎉 Some fun facts
 
@@ -65,19 +57,14 @@ The future I want to learn about Storybook, Jest, Unit Testing, and Component Ar
   </a>
 </p>
 
-
 <br/>
 
 ## 📫 Git Status
 
 <br/>
 
-<p align="center" >
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=Emam-Bokhari&theme=react&border=1&background=0D1117&stroke=0D1117&fire=00aeff&sideLabels=03aef2&currStreakNum=2dde98&ring=00aeff&currStreakLabel=2dde98&sideNums=00a1d6" />
-</p>
-
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Emam-Bokhari&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Emam Bokhari GitHub status" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=Emam-Bokhari&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Emam Bokhari GitHub status" />
 </p>
 
 <br/>
