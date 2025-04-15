@@ -63,8 +63,11 @@ The future I want to learn about Storybook, Jest, Unit Testing, and Component Ar
 
 <br/>
 
+
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Emam-Bokhari&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Emam Bokhari GitHub status" />
+ <a  href="https://github.com/mehefujali" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emam-Bokhari&theme=algolia" alt="GitHub Streak" />
+</a>
 </p>
 
 <br/>
