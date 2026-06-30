@@ -39,7 +39,6 @@ The future I want to learn about Storybook, Jest, Unit Testing, and Component Ar
 
 - 📑 Love reading the tech documentations.
 
-<br/>
 
 ## 💼 SparkTech Agency · Backend Developer · `May 2025 – Present`
 
@@ -59,7 +58,6 @@ The future I want to learn about Storybook, Jest, Unit Testing, and Component Ar
 
 - Worked in teams across multiple projects, contributing to development and delivery of features.
 
-<br/>
 
 ## ☎ Contact with me
 
@@ -77,13 +75,10 @@ The future I want to learn about Storybook, Jest, Unit Testing, and Component Ar
   </a>
 </p>
 
-<br/>
 
 ## 📫 Git Status
 
 <br/>
-
-
 
 <p align="center" width="60%">
  <a  href="https://github.com/Emam-Bokhari" >
@@ -97,8 +92,6 @@ The future I want to learn about Storybook, Jest, Unit Testing, and Component Ar
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emam-Bokhari&theme=algolia" alt="GitHub Stats" />
  </a>
 </p>
-
-<br/>
 
 ## 🖥 Technologies
 
@@ -115,4 +108,3 @@ The future I want to learn about Storybook, Jest, Unit Testing, and Component Ar
   </a>
 </p>
 
-<br/>
