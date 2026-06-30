@@ -27,6 +27,8 @@ The future I want to learn about Storybook, Jest, Unit Testing, and Component Ar
 
 </p>
 
+<br/>
+
 ## 🎉 Some fun facts
 
 <br/>
@@ -39,6 +41,7 @@ The future I want to learn about Storybook, Jest, Unit Testing, and Component Ar
 
 - 📑 Love reading the tech documentations.
 
+<br/>
 
 ## 💼 SparkTech Agency · Backend Developer · `May 2025 – Present`
 
@@ -58,6 +61,7 @@ The future I want to learn about Storybook, Jest, Unit Testing, and Component Ar
 
 - Worked in teams across multiple projects, contributing to development and delivery of features.
 
+<br/>
 
 ## ☎ Contact with me
 
@@ -75,6 +79,7 @@ The future I want to learn about Storybook, Jest, Unit Testing, and Component Ar
   </a>
 </p>
 
+<br/>
 
 ## 📫 Git Status
 
@@ -93,6 +98,8 @@ The future I want to learn about Storybook, Jest, Unit Testing, and Component Ar
  </a>
 </p>
 
+<br/>
+
 ## 🖥 Technologies
 
 <br/>
@@ -107,4 +114,7 @@ The future I want to learn about Storybook, Jest, Unit Testing, and Component Ar
    
   </a>
 </p>
+
+
+<br/>
 
