@@ -12,8 +12,8 @@
 
 ## 👀 Overview
 
-### Moshfiqur Rahman
-<p>FullStack Developer</p>
+<p> <strong>Moshfiqur Rahman</strong>
+FullStack Developer</p>
 
 <p>
 I am a full stack web developer with a solid foundation in both frontend and backend technologies.
