@@ -4,7 +4,7 @@
 
 <div align="center" >
 
-### Hello and welcome to my github profile ! 😍
+### Welcome to my GitHub profile! 👋
 
 </div>
 
@@ -12,8 +12,7 @@
 
 ## 👀 Overview
 
-#### Moshfiqur Rahman
-
+### Moshfiqur Rahman
 <p>FullStack Developer</p>
 
 <p>
