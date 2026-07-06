@@ -1,4 +1,4 @@
-![github banner image](assets/Banner-Moshfiqur-Rahman.png)
+![github banner image](assets/bg.png)
 
 <br/>
 
