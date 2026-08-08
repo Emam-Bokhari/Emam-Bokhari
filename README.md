@@ -43,24 +43,6 @@ The future I want to learn about Storybook, Jest, Unit Testing, and Component Ar
 
 <br/>
 
-## 💼 Professional Experience
-
-### **SparkTech Agency** | Backend Developer | *May 2025 – Present*
-* **Web Applications:** Developed and delivered 30+ web applications for clients across various industries.
-  
-* **Payment Gateways:** Integrated Stripe, CashPay, and PayFast payment systems, managing transaction workflows and validation logic.
-  
-* **Real-Time Features:** Implemented real-time communication modules and push notifications using Socket.io and Firebase Cloud Messaging (FCM).
-  
-* **Background Jobs:** Managed queue-based processing pipelines using Redis and BullMQ for heavy backend operations
-  
-* **Architecture:** Structured applications using Modular Monolithic and MVC patterns depending on project scale.
-  
-* **Client Engagement:** Discussed project requirements directly with clients to clarify requirements and explain trade-offs.
-  
-* **Teamwork:** Worked in collaborative teams to develop, review, and deliver features.
-
-<br/>
 
 ## ☎ Contact with me
 
