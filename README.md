@@ -23,7 +23,7 @@ I enjoy working on both frontend and backend, with a particular interest in back
 
 I enjoy solving technical problems, understanding how systems work, and finding practical solutions to software issues. I continuously improve my skills to build, debug, and maintain web applications more effectively.
 
-الحمد لله
+الحمد لله</br>
 I believe in continuous learning, thoughtful problem-solving, and writing code with a clear understanding of how every part of a system works.
 
 </p>
