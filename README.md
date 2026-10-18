@@ -52,14 +52,8 @@ I believe in continuous learning, thoughtful problem-solving, and writing code w
 
 <p align="center">
 
-
-<a href="https://www.linkedin.com/in/moshfiqurrahman37" target="_blank" rel="noopener noreferrer">
-  <img
-    width="50"
-    height="50"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg"
-    alt="LinkedIn"
-  >
+<a href="https://www.linkedin.com/in/moshfiqurrahman37">
+  <img width="50" height="50" src="./assets/linkedin.png" alt="LinkedIn">
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://wa.me/8801315773424">
