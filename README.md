@@ -17,13 +17,14 @@
 FullStack Developer</p>
 
 <p>
-I am a full stack web developer with a solid foundation in both frontend and backend technologies.
+I'm a Full Stack Developer working with React.js, Next.js, Node.js, Express.js, MongoDB, and PostgreSQL.
 
-Although I can do both frontend and backend, but I find more interest in backend technologies. I want to build my career on the backend technologies.
+I enjoy working on both frontend and backend, with a particular interest in backend development, API design, database design, and system architecture. I also work with debugging, performance optimization, and testing to understand and solve problems in web applications.
 
-I can develop frontend with React and NextJs. And I can do backend development with Express.Js, and MongDB.
+I enjoy solving technical problems, understanding how systems work, and finding practical solutions to software issues. I continuously improve my skills to build, debug, and maintain web applications more effectively.
 
-The future I want to learn about Storybook, Jest, Unit Testing, and Component Architecture. In the backend technology database design, normalization,sharding,partitioning, replication. And I want to know and learn deeply devops, microservice architecture, api design, and system design. الحمد لله I can adopt any technology very quickly.
+الحمد لله
+I believe in continuous learning, thoughtful problem-solving, and writing code with a clear understanding of how every part of a system works.
 
 </p>
 
