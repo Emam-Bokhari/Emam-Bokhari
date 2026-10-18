@@ -51,15 +51,36 @@ I believe in continuous learning, thoughtful problem-solving, and writing code w
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/moshfiqur-rahman-emam-bokhari">
-    <img width="50" height="50" src="./assets/linkedin.png">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/8801315773424">
-    <img height="50" width="50" src="./assets/whatsapp.png">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/emambokhari99">
-    <img width="50" height="50" src="./assets/facebook.png">
-  </a>
+
+
+<a href="https://www.linkedin.com/in/moshfiqurrahman37">
+  <img
+    width="50"
+    height="50"
+    src="https://cdn.simpleicons.org/linkedin"
+    alt="LinkedIn"
+  >
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://wa.me/8801315773424">
+  <img
+    width="50"
+    height="50"
+    src="https://cdn.simpleicons.org/whatsapp"
+    alt="WhatsApp"
+  >
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:moshfiqurrahman37@gmail.com">
+  <img
+    width="50"
+    height="50"
+    src="https://cdn.simpleicons.org/gmail"
+    alt="Email"
+  >
+</a>
+
+
 </p>
 
 <br/>
