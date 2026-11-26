@@ -1,4 +1,4 @@
-![github banner image](assets/bg.png)
+![github banner image](assets/banner.png)
 
 <br/>
 
